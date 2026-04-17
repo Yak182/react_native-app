@@ -24,7 +24,7 @@ export default function App() {
                     params: { id: "claude" },
                 }}
             >
-                Claude Max Subscription
+                Claude Max
             </Link>
 
         </View>
